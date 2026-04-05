@@ -19,4 +19,5 @@ This project analyzes ride-hailing data to evaluate trip performance, customer b
 - Trip status and cancellation reasons  
 
 ### 📷 Dashboard Preview
-(Screenshots will be added here)
+<img width="1180" height="665" alt="Screenshot 2026-04-05 135124" src="https://github.com/user-attachments/assets/127fb90b-a905-4291-ad6b-cbd100b665c6" />
+
